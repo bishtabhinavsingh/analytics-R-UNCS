@@ -56,4 +56,4 @@ After tidy-ing the data, let us visualize the clean and tidy data.
 
 ![alt text](5.png)
 
-> A glace at a global level based on data available for women representation in governments. This gives an idea about the acceptance of women in position of power in the respective societies.
+> A glance at a global level based on data available for women representation in governments. This gives an idea about the acceptance of women in position of power in the respective societies.
